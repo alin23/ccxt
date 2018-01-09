@@ -70,6 +70,7 @@ from ccxt.async.coinmate import coinmate                        # noqa: F401
 from ccxt.async.coinsecure import coinsecure                    # noqa: F401
 from ccxt.async.coinspot import coinspot                        # noqa: F401
 from ccxt.async.cryptopia import cryptopia                      # noqa: F401
+from ccxt.async.cryptocompare import cryptocompare              # noqa: F401
 from ccxt.async.dsx import dsx                                  # noqa: F401
 from ccxt.async.exmo import exmo                                # noqa: F401
 from ccxt.async.flowbtc import flowbtc                          # noqa: F401
@@ -168,6 +169,7 @@ exchanges = [
     'coinsecure',
     'coinspot',
     'cryptopia',
+    'cryptocompare',
     'dsx',
     'exmo',
     'flowbtc',

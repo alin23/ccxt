@@ -94,6 +94,7 @@ from ccxt.coinmate import coinmate                          # noqa: F401
 from ccxt.coinsecure import coinsecure                      # noqa: F401
 from ccxt.coinspot import coinspot                          # noqa: F401
 from ccxt.cryptopia import cryptopia                        # noqa: F401
+from ccxt.cryptocompare import cryptocompare                # noqa: F401
 from ccxt.dsx import dsx                                    # noqa: F401
 from ccxt.exmo import exmo                                  # noqa: F401
 from ccxt.flowbtc import flowbtc                            # noqa: F401
@@ -192,6 +193,7 @@ exchanges = [
     'coinsecure',
     'coinspot',
     'cryptopia',
+    'cryptocompare',
     'dsx',
     'exmo',
     'flowbtc',
